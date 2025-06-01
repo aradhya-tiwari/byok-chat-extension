@@ -1,3 +1,3 @@
-export type Bindings{
+export type Bindings = {
 
 }
