@@ -1,0 +1,14 @@
+{
+    "name": "BYOK chat",
+    "description": "Extension that lets you chat with your own api key",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permission": [
+        "contextMenus",
+        "sidePanel"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "vite.svg"
+    }
+}

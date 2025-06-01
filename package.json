@@ -1,0 +1,16 @@
+{
+  "name": "byok-chat",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "chat",
+    "backend"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
